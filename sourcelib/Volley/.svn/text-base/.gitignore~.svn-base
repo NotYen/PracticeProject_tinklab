@@ -1,0 +1,17 @@
+src/com/cleanmaster/resource/R2.java
+bin0
+bin1
+.externalToolBuilders/
+.project
+project.properties
+local.properties
+.gradle/
+.idea/
+CleanMaster.iml
+build
+string_check_result/
+cmbuild/buildutils.pyc
+app/app.iml
+app/build/
+testmain/testmain.iml
+
